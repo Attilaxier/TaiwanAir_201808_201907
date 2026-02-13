@@ -86,7 +86,6 @@
 |080|[關山](https://github.com/Attilaxier/TaiwanAir_201808_201907_080)|1920x1080|
 |083|[麥寮](https://github.com/Attilaxier/TaiwanAir_201808_201907_083)|1920x1080|
 |084|[富貴角](https://github.com/Attilaxier/TaiwanAir_201808_201907_084)|1920x1080|
-|085|[大城](https://github.com/Attilaxier/TaiwanAir_201808_201907_085)|1920x1080|
 |201|[行動1](https://github.com/Attilaxier/TaiwanAir_201808_201907_201)|1920x1080|
 |202|[行動2](https://github.com/Attilaxier/TaiwanAir_201808_201907_202)|1920x1080|
 |203|[行動3](https://github.com/Attilaxier/TaiwanAir_201808_201907_203)|1280x720|
